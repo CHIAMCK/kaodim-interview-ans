@@ -1,4 +1,6 @@
 
+# command to run the test, python -m unittest project.py
+
 class Organization:
     def __init__(self, name, number_of_users, plan, number_of_boards):
         self.name = name
